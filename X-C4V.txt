@@ -6,10 +6,11 @@ ITGM-356 FALL-2019
 -These are instructions for accessing the X-C4V GitHub Repository through "GitHub Desktop" for downloading and uploading of versions/commits to the X-C4V Unreal Project on GitHub.(https://github.com/xc4v/X-C4V)-
 1. Download "GitHub Desktop": https://desktop.github.com/
 2. Install "GitHub Desktop"(use all default install settings)
-3. Open "GitHub Desktop" and log in using username:"xc4v" and password:"BootyQuest420"
-4. To download and get access to the X-C4V Unreal Project GitHub Repository, you need to clone the GitHub Repository (https://github.com/xc4v/X-C4V) to a local folder on your computer.
-5. Cloning the Repository to your computer will download the latest version/commit on the GitHub Repository. Make sure you are downloading/cloning the correct revision/build of the repository.
-6. To upload changes you have made to your local folder which is a repository clone, you need to commit the changes back to the repository as a new version/commit. Commit your local folder to the repository to make sure your revisions are saved on the GitHub Repository for others to clone and revise.
+3. Open "GitHub Desktop" and log in using username:"xc4v" and password:"BootyQuest420" and use the random email given you.
+4. To download and get access to the X-C4V Unreal Project GitHub Repository, you need the X-C4V GitHub Repository (https://github.com/xc4v/X-C4V or clicking on it in GitHub Desktop) to be "cloned"/downloaded to a local folder on your computer.
+5. Cloning the X-C4V Repository to your computer will download the latest version from GitHub. Make sure you are downloading/cloning the correct branch and revision/build of the repository.
+6. To upload changes you have made to your local folder, you need to "commit" the changes back to the repository as a new version/commit. Commit your changes and Push your local folder to the repository using GitHub Desktop to make sure your revisions are saved on the GitHub Repository for others to clone and revise.
+7. When doing a commit/push, use the summary template: "X-C4V Build 0.0.0" and the description template: "X-C4V Build 0.0.0 10-0-2019 4:20 NAME"
 -
 -(To commit files larger than 100mb use, "Git LFS/Large File Storage" https://git-lfs.github.com/.
 -Instructions for 100mb+ Git LFS Installation and use:)
