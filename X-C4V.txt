@@ -18,4 +18,6 @@ ITGM-356 FALL-2019
 3. Download "Git LFS": https://git-lfs.github.com/
 4. Install "Git LFS" by double clicking on the installer exe.(use all default install settings) 
 5. Then, open the previously installed app, "Git". It opens a command prompt that is used to commit files that GitHub Desktop should warn you are larger than 100mb. You initialize Git LFS and use it to commit 
-6. To initialize Git LFS, enter: "git lfs install"
+6. To initialize Git LFS, enter: " git lfs install "
+7. To track the large files, enter: " git lfs track 'PATHTOFILE' "
+8. Here's a cheerful tutorial video with ukulele background music with more commands like committing the files; Link: youtu.be/uLR1RNqJ1Mw
