@@ -20,6 +20,10 @@
 		{
 			"Name": "OculusVR",
 			"Enabled": false
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	]
 }
