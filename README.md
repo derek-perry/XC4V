@@ -24,6 +24,6 @@ Game made in Unreal Engine for a SCAD Game Design course. The SCAD project calle
 
 This was a project completed in a group of four students. My role was to design the systems and blueprint tech; combat, movement, other character interactions/variables, enemy AI, and the base/wave defense mechanics. My three group members provided the concept art as well as character, environment, and prop art assets along with sounds and menus.
 
-Made Using:  Adobe Photoshop  Adobe Illustrator  Autodesk Maya  Substance Designer  Substance Painter  Unreal Engine 4
- 
+Made Using: Adobe Photoshop, Adobe Illustrator, Autodesk Maya, Substance Designer, Substance Painter, Unreal Engine 4
+
 ___________
