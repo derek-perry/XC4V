@@ -6,6 +6,16 @@ Game Info & Download Page: https://dp.design/xc4v/
 
 ___________
 
+Game Overview:
+
+Third-Person Wave Defense Sci-Fi Combat Game
+
+Defend a valuable metal storage silo in an extraplanetary mining base from waves of invading enemies. Shoot dangerous molten metal from a limited tank on your backpack. Mine for more molten metal to warm XC4V and resist XC4V’s operating temperature dropping to fatally cold levels.
+
+___________
+
+Development Information:
+
 October 2, 2019 – November 13, 2019
 
 Third-Person Wave Defense Sci-Fi Combat Game
@@ -17,9 +27,3 @@ This was a project completed in a group of four students. My role was to design 
 Made Using:  Adobe Photoshop  Adobe Illustrator  Autodesk Maya  Substance Designer  Substance Painter  Unreal Engine 4
  
 ___________
-
-XC4V
-
-Third-Person Wave Defense Sci-Fi Combat Game
-
-Defend a valuable metal storage silo in an extraplanetary mining base from waves of invading enemies. Shoot dangerous molten metal from a limited tank on your backpack. Mine for more molten metal to warm XC4V and resist XC4V’s operating temperature dropping to fatally cold levels.
