@@ -2,7 +2,7 @@ XC4V
 
 [Game; Game Tech, Game Design]
 
-Game Info & Download Page: https://dp.design/xc4v/
+Game Info Page: https://dp.design/xc4v
 
 ___________
 
@@ -18,9 +18,9 @@ Development Information:
 
 October 2, 2019 – November 13, 2019
 
-Third-Person Wave Defense Sci-Fi Combat Game
+Third-Person Wave Defense Sci-Fi Combat Game made in Unreal Engine 4
 
-Game made in Unreal Engine for SCAD Game Design. The group-based SCAD project called for completing a Game Design idea using Unreal Engine with a focus on holistic design principles.
+Game initially created for a SCAD Game Design course. The group-based SCAD project called for completing a Game Design idea using Unreal Engine with a focus on holistic design principles.
 
 This was a project completed in a group of four students. My role was to design the systems and blueprint tech; combat, movement, other character interactions/variables, enemy AI, and the base/wave defense mechanics. My three group members provided the concept art as well as character, environment, and prop art assets along with sounds and menus.
 
