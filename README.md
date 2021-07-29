@@ -20,7 +20,7 @@ October 2, 2019 – November 13, 2019
 
 Third-Person Wave Defense Sci-Fi Combat Game
 
-Game made in Unreal Engine for a SCAD Game Design course. The SCAD project called for completing a Game Design idea using Unreal Engine with a focus on holistic design principles.
+Game made in Unreal Engine for SCAD Game Design. The group-based SCAD project called for completing a Game Design idea using Unreal Engine with a focus on holistic design principles.
 
 This was a project completed in a group of four students. My role was to design the systems and blueprint tech; combat, movement, other character interactions/variables, enemy AI, and the base/wave defense mechanics. My three group members provided the concept art as well as character, environment, and prop art assets along with sounds and menus.
 
