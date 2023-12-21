@@ -2,7 +2,7 @@ XC4V
 
 [Game; Game Tech, Game Design]
 
-Game Info Page: https://dp.design/xc4v
+Game Info Page: https://derek-perry.com/xc4v
 
 ___________
 
@@ -24,6 +24,6 @@ Game initially created for a SCAD Game Design course. The group-based SCAD proje
 
 This was a project completed in a group of four students. My role was to design the systems and blueprint tech; combat, movement, other character interactions/variables, enemy AI, and the base/wave defense mechanics. My three group members provided the concept art as well as character, environment, and prop art assets along with sounds and menus.
 
-Made Using: Adobe Photoshop, Adobe Illustrator, Autodesk Maya, Substance Designer, Substance Painter, Unreal Engine 4
+Made Using: Adobe Photoshop, Adobe Illustrator, Autodesk Maya, Substance Designer, Substance Painter, Unreal Engine 4.22
 
 ___________
